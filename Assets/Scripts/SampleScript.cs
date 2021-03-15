@@ -5,6 +5,7 @@ using UnityEngine;
 public class SampleScript : MonoBehaviour
 {
     #region Dependencies
+
     #endregion
 
 
